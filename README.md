@@ -1,6 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dimitriskourg&count_private=true&show_icons=true&theme=tokyonight" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitriskourg&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dimitriskourg&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitriskourg&layout=compact&theme=tokyonight" />
 </a>
 <!--
 **dimitriskourg/dimitriskourg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
