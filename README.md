@@ -13,6 +13,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/dimitris-kourgiantakis"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dimitrios%20Kourgiantakis-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="mailto:dimitriskourgiantakis@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dimitriskourgiantakis@gmail.com-9cf?style=flat-square&logo=gmail&logoColor=red"></a>
+<img src="https://komarev.com/ghpvc/?username=dimitriskourg&style=flat-square&color=blue" alt="Profile View counter"/>
 </p>
 <!--
 **dimitriskourg/dimitriskourg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
